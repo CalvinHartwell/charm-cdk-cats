@@ -1,0 +1,7 @@
+---
+bundle: kubernetes
+applications:
+  cdk-cats:
+    charm: ./
+    # source: ./
+    scale: 1

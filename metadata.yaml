@@ -1,0 +1,8 @@
+name: cdk-cats
+summary: cdk-cats
+maintainer: Calvin Hartwell
+description: cdk-cats
+tags:
+    - kubernetes
+series:
+    - kubernetes
